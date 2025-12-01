@@ -1,12 +1,7 @@
 # Vortex-AMS
 An open source AMS system to help young professionals and sports teams, to level up their data injection and data processing
 
-
 # Open Source Athlete Management System (VORTEX-AMS)
-
-## About Us
-
-We are a team of 4 passionate sports science professionals, and Nikhil (what title would you like), with over 10 years of combined experience working directly in the sports industry. Our passion for this project has brought us together, spanning half the globe (Ash based in LA, Tanuj based in NZ, Ivan in Switzerland, and Nikil in India). Our backgrounds span human performance measurement, sports technology development, and athlete support systems. Having worked hands-on with athletes, coaches, and sports organisations, we've experienced firsthand the challenges and gaps in current athlete management tools.
 
 Our unique perspective comes from being practitioners first – we understand the real-world needs of sports professionals because we've lived them.
 
@@ -21,13 +16,6 @@ The Open Source Athlete Management System (AMS) is designed to be the comprehens
 - Standardized data formats across different hardware ecosystems
 - A no-code platform that will help you build team reports and solve your data storage problem on a budget. 
 
-**Educational Foundation**
-
-- Built-in learning modules for sports science principles
-- Best practices for human performance measurement
-- Practical tutorials for emerging professionals in the field
-- Focus on being in the applied setting and leave the data to us. 
-
 **Collaborative Workflow**
 
 - Team-based athlete management tools
@@ -41,6 +29,13 @@ The Open Source Athlete Management System (AMS) is designed to be the comprehens
 - Trend analysis and predictive insights
 - Customizable reporting for different stakeholders
 - Using ML to answer tough questions in sports about players' conditioning and rehab.
+
+**Educational Foundation**
+
+- Built-in learning modules for sports science principles
+- Best practices for human performance measurement
+- Practical tutorials for emerging professionals in the field
+- Focus on being in the applied setting and leave the data to us. 
 
 ## Why Open Source?
 
