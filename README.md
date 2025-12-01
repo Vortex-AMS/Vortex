@@ -1,7 +1,7 @@
-# Vortex-AMS
+# Vortex AMS
 An open source AMS system to help young professionals and sports teams, to level up their data injection and data processing
 
-# Open Source Athlete Management System (VORTEX-AMS)
+# Open Source Athlete Management System (VORTEX AMS)
 
 Our unique perspective comes from being practitioners first – we understand the real-world needs of sports professionals because we've lived them.
 
