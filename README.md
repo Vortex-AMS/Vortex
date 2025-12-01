@@ -76,4 +76,4 @@ Whether you're a sports scientist, developer, coach, or athlete, we welcome your
 
 ---
 
-*Built by sports professionals, for sports professionals. Open source, always.*
+*Built by sports professionals, for sports professionals.*
